@@ -1,6 +1,6 @@
 # Eunoia
 
-> Words worth keeping
+> Words worth keeping.
 
 Eunoia is a personal vocabulary and literature-inspired app designed to help users discover, understand, remember, and use new words.
 
